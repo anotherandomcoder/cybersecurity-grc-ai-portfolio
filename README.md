@@ -6,16 +6,17 @@ Welcome to my cybersecurity and ai portfolio. This repository highlights my hand
 
 ## 📁 Projects Overview
 
-### 1. Enterprise Cybersecurity Risk Register & Assessment Model
-* **Frameworks Used:** NIST SP 800-30, Qualitative Risk Analysis, GRC Frameworks
-* **Description:** Developed a comprehensive 5x5 qualitative risk matrix evaluating enterprise threat vectors (ranging from ransomware to cloud misconfigurations). Mapped asset vulnerabilities to likelihood and impact scores to calculate residual risk and define prioritized mitigation controls.
-* **Files:** [View Risk Register Model](./enterprise-risk-register/)
+### Enterprise Cybersecurity Risk Register
+* **Overview:** Developed a qualitative risk matrix evaluating enterprise threat vectors, mapping vulnerabilities to likelihood and impact scores, and defining mitigation controls.
+* **Deliverables:** 
+  * [View Risk Register PDF](./Enterprise%20Risk%20Register%20-.pdf)
 
-### 2. Datacom Cybersecurity Job Simulation (Forage)
-* **Skills Demonstrated:** Incident Response, Threat Analysis, Risk Assessment
-* **Description:** Investigated a simulated enterprise cyberattack, analyzed Indicators of Compromise (IOCs), and authored a formal security breach impact report outlining executive-level remediation strategies and security posture improvements.
-* **Files:** [View Incident Report](./forage-datacom-simulation/)
-* 
+### Datacom Cybersecurity Job Simulation
+* **Overview:** Completed a simulation focused on threat analysis, incident response, and enterprise risk management.
+* **Deliverables:** 
+  * [View Incident Report PDF](./DataCom%20Forage%20Cybersecurity%20Incident%20Report.pdf)
+  * [View Risk Assessment Template](./Threat%20and%20Vulnerability%20Identification%20Template.docx)
+  
 ### 3. AI Engineering & Automation Projects
 * **Tech Stack:** Python, AI Integration Pipelines, N8N, Zapier, Custom LLM Workflows
 * **Description:** Engineered full-stack AI voice receptionists and automated customer relationship management (CRM) workflows for regulated sectors, cutting manual workload and ensuring secure data handling.
